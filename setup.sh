@@ -73,6 +73,7 @@ Config() {
     mkdir ~/.config/bspwm/scripts
     cp -r Config/bspwm_resize ~/.config/bspwm/scripts/
     cp -r Config/bspwmrc ~/.config/bspwm/
+    chmod +x ~/.config/bspwm/bspwmrc
 
     #Save new picom config
     mkdir ~/.config/picom
