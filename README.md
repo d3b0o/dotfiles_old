@@ -24,7 +24,7 @@ Follow the instructions in `setup.sh`
 
 ## **Useful keybindigs to know...**
 
-|  lorem ipsum | keybindigs |
+|  Function | keybindigs |
 | --------------- | ------------- |
 | gnome-terminal  | ``Super + Return`` |
 | Change workspace | ``Super + (1-9)`` |
