@@ -13,12 +13,6 @@ Minimal bspwm config
 * Shortcuts: <a name="sxhkd">sxhkd</a>
 
 
-## **Instalation**
-```
-cd dotfiles
-chmod +x setup.sh
-./setup.sh
-```
 
 Follow the instructions in `setup.sh`
 
